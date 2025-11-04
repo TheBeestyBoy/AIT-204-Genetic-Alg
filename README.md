@@ -7,7 +7,7 @@ A comprehensive class activity package for teaching genetic algorithms through a
 ### 1. Interactive HTML Handout
 **File:** `genetic-algorithm-handout.html`
 
-A beautifully designed, interactive educational handout featuring:
+An interactive educational handout:
 - Visual explanation of genetic algorithm concepts
 - Animated SVG diagrams showing the GA lifecycle
 - Interactive browser-based demo (evolve "HELLO WORLD")
